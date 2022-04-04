@@ -1,0 +1,11 @@
+C:\Users\Alec\3D Objects\5hub\5hub\bin\Debug\5hub.exe.config
+C:\Users\Alec\3D Objects\5hub\5hub\bin\Debug\5hub.exe
+C:\Users\Alec\3D Objects\5hub\5hub\bin\Debug\5hub.pdb
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\5hub.csproj.AssemblyReference.cache
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\5hub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\_5hub.Form1.resources
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\_5hub.Properties.Resources.resources
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\5hub.csproj.GenerateResource.cache
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\5hub.csproj.CoreCompileInputs.cache
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\5hub.exe
+C:\Users\Alec\3D Objects\5hub\5hub\obj\Debug\5hub.pdb
